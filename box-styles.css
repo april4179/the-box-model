@@ -1,0 +1,32 @@
+.main {
+  padding: 10px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: darkblue;
+  margin: none;
+}
+
+.pic img {
+  width: 100px;
+  margin: 0 20px 40px 10px;
+}
+.card-one {
+  display: flex;
+  width: 100%;
+  list-style: none;
+}
+header {
+  text-align: center;
+  padding: 20px;
+  margin: auto;
+}
+.card-two {
+  display: flex;
+  width: 100%;
+  list-style: none;
+}
+.card-three {
+  display: flex;
+  width: 100%;
+  list-style: none;
+  text-align: justify;
